@@ -9,7 +9,7 @@ const Sidebar = () => {
 
   return (
     <div
-      className={`border-r w-[385px] border-slate-500 p-4 
+      className={` sm:w-full border-slate-500 p-8 sm:p-4 
       flex-col ${
         isSelected ? "hidden" : ""
       }  sm:flex`}
