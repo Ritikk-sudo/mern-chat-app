@@ -1,0 +1,8 @@
+{
+  "appId": "com.ritik.app",
+  "appName": "chat-app-mern",
+  "webDir": "./frontend/dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}

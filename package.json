@@ -13,6 +13,8 @@
 	"author": "",
 	"license": "ISC",
 	"dependencies": {
+		"@capacitor/android": "^5.6.0",
+		"@capacitor/core": "^5.6.0",
 		"bcryptjs": "^2.4.3",
 		"cookie-parser": "^1.4.6",
 		"dotenv": "^16.4.1",
@@ -22,6 +24,7 @@
 		"socket.io": "^4.7.4"
 	},
 	"devDependencies": {
+		"@capacitor/cli": "^5.6.0",
 		"nodemon": "^3.0.3"
 	}
 }
